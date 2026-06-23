@@ -44,7 +44,7 @@ Il servizio deve inoltre visualizzare sul display dell’IOPort:
 - il messaggio **'service working'**, quando tutto procede correttamente
 - il messaggio **'out of service'** se il _sensore sonar_ rileva una distanza $D \gt DFREE$ per almeno 3 secondi (forse a causa di un guasto del _sonar_).
 
-# analisi dei requisiti
+# 3. Analisi dei Requisiti
 
 
 
